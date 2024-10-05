@@ -98,6 +98,8 @@ This knowledge may **inspire** technological innovations to tackle contemporary 
 
 
 
+
+
 ### Background
 
 #### Earth-like Planets
@@ -245,6 +247,6 @@ Chemosynthesis is a common process in deep aquatic environments where sunlight d
 Cold seeps are similar to hydrothermal vents but differ in that they release gases or fluids rich in hydrocarbons, such as hydrogen sulfide and methane, at cold temperatures or at the level of seawater. They form when there is a large amount of hydrocarbons stored beneath the seabed. These seeps can be classified according to the types of chemicals they release, leading to classifications like methane seeps, brine seeps, mud volcanoes, and oil seeps (NOAA Ocean Exploration, 2024).
 
 
-
+![chemo](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/chemo.jpeg)
 
 
