@@ -17,7 +17,7 @@ Logo
 
 ## Team
 
-![Equipo](/Users/ivannalandavazo/Documents/GitHub/AquaAbbys/Images/hypothesisters_and_some_dudes.png)
+![Equipo](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/hypothesisters_and_some_dudes.png)
 
 
 
