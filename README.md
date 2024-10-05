@@ -1,40 +1,16 @@
-# 🌌 Aqua-Abbys: Beyond the Sunlight 🌊
+[**NASA International Space Apps Challenge**](https://www.spaceappschallenge.org/)
 
-## 📜 High-Level Summary
-“Aqua-Abbys: Beyond the Sunlight” is the prototype of an interactive game developed as part of the **NASA Space Apps Challenge**. The principal objective of the project is to create an **educational experience** for children and young people aged **over 10 years old**. This game explores the **possibility of life in exoplanets** through **chemosynthesis**, fostering interest in **astrobiology** and **space science**. 
+**Challenge: Beyond the Sunlight: An Aquatic Chemosynthetic World**
+Earth's ecosystems heavily rely on sunlight, but imagine an ocean world where chemosynthesis, not photosynthesis, sustains life. Your challenge is to design such a world and its diverse ecosystem, pushing the boundaries of astrobiology beyond traditional Earth-like conditions.
 
-## 👨‍🚀 Gameplay Overview
-In this game, players will assume the role of an **astronaut** exploring exoplanets in search of life based on **chemosynthesis**, in the face of the imminent extinction of life on Earth due to the **Sun cooling down** in the upcoming **30 years**. Through the exploration of an environment similar to **Europa**, one of Jupiter’s moons, players will encounter various forms of life that survive in extreme conditions. They will have the opportunity to interact with these life forms to learn about their **biology** and **adaptation**. 
+	[Go to challenge](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/beyond-sunlight-an-aquatic-chemosynthetic-world/)
 
-## 🎮 Educational Contribution
-This project encourages **scientific curiosity** and **imagination**, offering missions that integrate the learning of life in space with engaging gameplay. “Aqua-Abbys: Beyond the Sunlight” is proposed as an **educational tool** that combines **entertainment** with **learning**, promoting scientific exploration among children and youth. 
-
-## 🌟 Key Features
-- **Interactive Exploration**: Players can navigate diverse environments and discover life forms.
-- **Educational Missions**: Each mission is designed to teach players about astrobiology and the conditions for life beyond Earth.
-- **Engaging Gameplay**: The game incorporates elements of adventure and discovery to captivate young audiences.
-
-## 🚀 Project Goals
-- Foster interest in **astrobiology** and **space science**.
-- Create an immersive learning experience that blends **education** and **entertainment**.
-- Encourage **scientific exploration** and curiosity in young minds.
-
-## 💻 Technologies Used
-- Game Development Framework: [Unity/Unreal Engine (or specify other technology)]
-- Programming Languages: [C#/C++/Python (or specify others)]
-- Visual Design: [Adobe Illustrator/Blender (or specify others)]
-
-## 🌈 Get Involved
-We welcome contributors! If you're interested in joining the development of “Aqua-Abbys: Beyond the Sunlight,” please reach out or check our contribution guidelines.
-
-## Team Members
-- Miranda Villa 
-
-## DOCS
-Look at our documentation at DOCS folder in this repo
-
-
----
-
-Join us in exploring the **depths of space** and **unlocking the mysteries of extraterrestrial life**! 🚀🌌
+📑**Content:**
+  1. Team members
+  2. Research
+  3. Project 
+  4. Technologies
+  5. Space Agency Data
+  6. Use of AI
+  7. References
 
