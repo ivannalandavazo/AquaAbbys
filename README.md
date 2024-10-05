@@ -30,6 +30,9 @@ We welcome contributors! If you're interested in joining the development of “A
 ## Team Members
 - Miranda Villa 
 
+## DOCS
+Look at our documentation at DOCS folder in this repo
+
 
 ---
 
