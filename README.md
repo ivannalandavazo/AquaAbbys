@@ -27,6 +27,10 @@ This project encourages **scientific curiosity** and **imagination**, offering m
 ## 🌈 Get Involved
 We welcome contributors! If you're interested in joining the development of “Aqua-Abbys: Beyond the Sunlight,” please reach out or check our contribution guidelines.
 
+## Team Members
+- Miranda Villa 
+
+
 ---
 
 Join us in exploring the **depths of space** and **unlocking the mysteries of extraterrestrial life**! 🚀🌌
