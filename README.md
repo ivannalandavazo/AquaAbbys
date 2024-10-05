@@ -17,7 +17,7 @@ Logo
 
 ## Team
 
-### ![[Hypothesisters and Some Dudes](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/hypothesisters-and-some-dudes/)](images/hypothesisters-and-some-dudes.png)
+### ![[Hypothesisters and Some Dudes](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/hypothesisters-and-some-dudes/)](/Users/ivannalandavazo/Documents/GitHub/AquaAbbys/Images/hypothesisters_and_some_dudes.png)
 
 #### Members:
 
