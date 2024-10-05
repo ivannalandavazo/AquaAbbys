@@ -17,7 +17,7 @@ Logo
 
 ## Team
 
-![Equipo](hUsers/ivannalandavazo/Documents/GitHub/AquaAbbys/Images/hypothesisters_and_some_dudes.png "Nuestro Equipo")
+![Equipo](/Users/ivannalandavazo/Documents/GitHub/AquaAbbys/Images/hypothesisters_and_some_dudes.png)
 
 
 
