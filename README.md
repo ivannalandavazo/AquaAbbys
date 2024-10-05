@@ -1,3 +1,8 @@
+# Aqua-Abyss: Beyond the Sunlight
+
+Logo
+
+
 [**NASA International Space Apps Challenge 2024**](https://www.spaceappschallenge.org/)
 
 **Challenge: Beyond the Sunlight: An Aquatic Chemosynthetic World**
@@ -7,12 +12,34 @@ Earth's ecosystems heavily rely on sunlight, but imagine an ocean world where ch
 [Go to challenge](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/beyond-sunlight-an-aquatic-chemosynthetic-world/)
 
 
-📑 **Content:**
-  1. Team members
-  2. Research
-  3. Project 
-  4. Technologies
-  5. Space Agency Data
-  6. Use of AI
-  7. References
+##### 📑 **Contents:**
+  1. [Team](#Team)
+  2. About the project
+  3. Research
+  4. Aqua-Abyss: Beyond the Sunlight
+  5. Technologies, platforms, use of AI, etc. 
+  6. References
+
+## 1. Team
+
+### [Hypothesisters and Some Dudes](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/hypothesisters-and-some-dudes/)
+
+#### Members:
+
+- Miranda Villa Esquer
+- Victoria Beltrán Aguilar
+- Blanca Kossethe Moreno Real
+- Ivanna Carolina Landavazo Montaño
+- Jesús Alejandro Pérez Granados
+- Hugo Alejandro Robles López
+
+
+
+
+
+
+
+
+
+
 
