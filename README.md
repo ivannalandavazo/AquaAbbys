@@ -16,6 +16,7 @@
 
 [**NASA International Space Apps Challenge 2024**](https://www.spaceappschallenge.org/)
 
+[**Project Demo**](https://www.canva.com/design/DAGSuoQhUGM/ulhld4KEVl4ZLZkkoACnrQ/edit?utm_content=DAGSuoQhUGM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ##### 📑 **Contents:**
@@ -534,9 +535,6 @@ The player will click to "play" to start, or "quit" to end the game.
 
 - ##### Role play
 ![roleplay](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/role%20play.png)
-
-- ##### Rules
-![pixi](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/rules.png)
 
 
 - #### Game lore
