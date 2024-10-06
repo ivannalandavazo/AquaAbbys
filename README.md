@@ -515,11 +515,11 @@ Players will develop problem-solving and critical thinking skills by facing chal
 By immersing themselves in an alien world, players are inspired to imagine and explore possibilities about life on other planets.
 
 
-### Characters and graphic sources
-
-foto
-
 ### Design
+
+- #### Characters and graphic sources
+![pixi](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.01.15%E2%80%AFa.m..png)
+
 
 
 
