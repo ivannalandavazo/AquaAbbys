@@ -21,8 +21,15 @@
 ##### 📑 **Contents:**
   1. [Team](#team)
   2. [About the project](#about-the-project)
-  3. [Research](#reasearch)
-  4. Project details
+  3. [Research](#research)
+    3.1 [Introduction](introduction)
+    3.2 [Background](background)
+    3.3 [Theorical framework](theorical-framework)
+  4. [Project: Aqua-Abyss](#project-aqua-abyss)
+    4.1 Overview
+    4.2 How it works? 
+    4.3 Goals and Importance
+    4.4 Benefits
   5. Technologies, platforms, use of AI, etc. 
   6. References
 
@@ -250,14 +257,218 @@ Figure 3. James Webb Space Telescope - NASA
 Figure 4. Transiting Exoplanet Survey Satellite
 
 
+#### Relationship Between Chemosynthesis and Organisms 
+Many organisms feed on bacteria found on the ocean floor, particularly around hydrothermal vents and cold seeps, as these are locations where chemical compounds and elements, such as hydrogen sulfide, emerge. This hydrogen sulfide is utilized to generate energy through chemosynthesis, leading to a symbiotic relationship between them. The bacteria obtain a habitat within the organism’s body in exchange for producing food for the host (Douglas Wilkin | Jean Brainard, 2024).
 
-#### What is **chemosynthesis**?
+
+#### Underwater Life Without Sunlight
+Some evolutionary origins suggest that most current marine organisms shared common ancestors that lived at the surface. Over time, the oceans expanded, forcing these organisms to adapt to specific conditions in the depths. An example of this adaptation is to darkness; as depth increases, less light penetrates the water, resulting in physical changes in their systems, particularly concerning predation. Furthermore, it has been shown that organisms living in the depths evolved to feed on animal remains that sink to the ocean floor after death, as well as through chemosynthesis.
+
+Several extremophiles living in the deepest parts of the Earth's oceans, including abyssal fish, cephalopods, and echinoderms, share the following similarities:  
+
+##### Bioluminescence:
+Many animals can produce their own light through chemical reactions in their bodies, which helps them attract prey, communicate, or evade predators.  
+
+##### Transparent or Gelatinous Bodies
+Organisms have transparent or gelatinous bodies, facilitating camouflage and evasion of predators.  
+
+##### Large Eyes:
+Abyssal animals often possess large eyes to maximize light capture.  
+
+##### Heightened Senses:
+They have highly developed senses, such as smell and the ability to detect vibrations, allowing them to find food and navigate their environment. 
+
+##### Varied Sizes: 
+In the depths, organisms can be both giant and very small.  
+
+##### Pale or Dark Coloring:
+They typically have coloration ranging from dark gray to black, aiding in concealment in the dark ocean floor.  
+
+##### Feeding:
+Due to the lack of light, there is no vegetation. They obtain food through direct predation. Another significant food source for these species comes from animals that die in the upper layers of the ocean and sink.
+
+![bio](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/underwater.jpeg)
+
+
+
+
+
+
+
+
+
+
+#### Effects of Planetary Conditions on the Human Body 
+In an environment with low pressure, various consequences may arise. Some examples include:  
+
+##### Constant oxygen loss:
+As one descends on this planet, it is understood that with decreasing pressure, oxygen levels will also drop.
+
+##### Decompression:
+A rapid descent from high altitude can lead to decompression sickness, where gas bubbles form in the body’s tissues.  
+
+##### Gas expansion:
+Gasses inside the body, such as in the lungs, expand due to the pressure differences.  
+
+##### Changes in blood flow and blood pressure:
+This can force the heart to work harder, leading to cardiovascular issues.  
+
+##### Low pressure and oxygen shortage:
+This may result in cognitive problems, perception issues, and alterations in mental state.  
+
+##### Freezing from low temperatures:
+This can occur due to the absence of warmth surrounding the body.
+
+![efe](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/humanboy.jpg)
+
+
+
+
+
+
+
+
+
+## Theorical framework
+
+#### Abyssal Fish: 
+Animals that live in the abyssopelagic zone of the oceans, found between 4,000 and 6,000 meters deep.  
+
+![aby](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/abyssal.jpg?raw=true)
+
+
+
+
+
+
+
+
+
+
+#### Cephalopods:
+"Cephalopods are the largest and most intelligent invertebrates. They are a class of marine mollusks characterized by having tentacles on their heads and lacking an external shell" (Fundación Aquae, 2022).  
+
+
+
+
+
+![cepha](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/cephalopods.jpg)
+
+
+
+
+
+
+
+
+
+
+
+#### **Chemosynthesis**
 
 Chemosynthesis is a common process in deep aquatic environments where sunlight does not reach, driven by the presence of hydrothermal vents and cold seeps. Hydrothermal vents are cracks in the ocean floor that emit hot water rich in minerals. They occur when ocean water seeps into the ground, is heated by magma, and then emerges from these cracks, bringing elements like sulfur, copper, zinc, gold, iron, and helium. The water that exits can reach temperatures over 400°C, but due to the pressure at depth, it does not boil. There are black smokers, which are deposits of iron sulfide, and white smokers, which are deposits of barium, calcium, and silicon.
 
-Cold seeps are similar to hydrothermal vents but differ in that they release gases or fluids rich in hydrocarbons, such as hydrogen sulfide and methane, at cold temperatures or at the level of seawater. They form when there is a large amount of hydrocarbons stored beneath the seabed. These seeps can be classified according to the types of chemicals they release, leading to classifications like methane seeps, brine seeps, mud volcanoes, and oil seeps (NOAA Ocean Exploration, 2024).
+Cold seeps are similar to hydrothermal vents but differ in that they release gasses or fluids rich in hydrocarbons, such as hydrogen sulfide and methane, at cold temperatures or at the level of seawater. They form when there is a large amount of hydrocarbons stored beneath the seabed. These seeps can be classified according to the types of chemicals they release, leading to classifications like methane seeps, brine seeps, mud volcanoes, and oil seeps (NOAA Ocean Exploration, 2024).
 
 
 ![chemo](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/chemo.jpeg)
 
 
+
+
+
+
+
+
+#### Cold seeps:
+"Cold seeps are areas in the ocean where chemicals like hydrogen sulfide, methane, and other hydrocarbon-rich fluids or gasses escape from cracks or fissures in the ocean floor" (NOAA Ocean Exploration, n.d.). 
+
+![cold](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/coldseeps.jpeg)
+
+
+
+
+
+
+
+#### Echinoderms: 
+"Echinoderms are a phylum of exclusively marine invertebrates that inhabit the benthic zone of all oceans" (Fundación Aquae, 2022).  
+
+![echino](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/echinoderms.jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
+#### Exoplanet: 
+An exoplanet, or extrasolar planet, is a celestial body that orbits a star outside our solar system. These planets can vary in size, composition, and environmental conditions and are classified based on various criteria.  
+
+![exo]()
+
+
+
+
+
+
+#### Extremophiles:
+Extremophiles are organisms that thrive in extreme environmental conditions that are inhospitable to most forms of life. They are characterized by their ability to tolerate and adapt to conditions considered outside normal ranges of temperature, pH, salinity, pressure, and other environmental factors.  
+
+![extremo](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/extremophiles.jpeg)
+
+
+
+
+
+
+
+
+
+#### Hydrothermal Vents:
+"Here, at a depth of 2,500 meters (8,250 feet), ocean explorers first observed hydrothermal vents, fissures on the ocean floor from which hot, mineral-rich water emerges" (NOAA Ocean Exploration, n.d.)
+
+![hydro](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/hydrothermal.jpg)
+
+
+
+
+
+
+
+
+#### Magma:
+Magma is molten rock located beneath the Earth's surface, which cools to form igneous rocks like granite and basalt (Geosciences LibreTexts, n.d.)
+
+
+![magma](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/magma.jpeg)
+
+
+
+
+
+
+
+
+
+
+#### Silicate Rocks:
+Silicate rocks are primarily composed of silicate minerals based on the silicon-oxygen tetrahedron. They are formed through processes such as magma cooling, metamorphosis due to heat and pressure, and sedimentation. Common examples include basalt and granite (Geosciences LibreTexts, n.d.)
+
+
+![silicate](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/silicate.jpeg)
+
+
+
+
+
+
+
+
+
+## Project: Aqua-Abyss 
