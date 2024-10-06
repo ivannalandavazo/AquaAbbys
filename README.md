@@ -535,7 +535,7 @@ The player will be introduced to the game’s storyline as a scientist astronaut
 
 The astronaut, after an accident with their spacecraft, crash-lands on a frozen planet with vast subterranean oceans, reminiscent of Europa, one of Jupiter’s moons.
 
-![story](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.18.39%E2%80%AFa.m..png?)
+![story2](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.36.20%E2%80%AFa.m..png?raw=true)
 
 
 Despite the hostile environment —extreme temperatures, high pressure, and a total absence of sunlight— the planet shows signs of life forms that have adapted to this environment by using chemosynthesis instead of photosynthesis. As the player explores this strange and unknown world, they will dive into its deep oceans, discovering alien ecosystems that rely on hydrothermal vents for survival.
