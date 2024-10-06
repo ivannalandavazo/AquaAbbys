@@ -520,6 +520,7 @@ By immersing themselves in an alien world, players are inspired to imagine and e
 - #### Characters and graphic sources
 ![pixi](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.01.15%E2%80%AFa.m..png)
 
+
 - #### Projection of _"Abyss-Aqua: Beyond the Sunlight"_
 
 ##### Menu
@@ -527,6 +528,10 @@ The player will click to "play" to start, or "quit" to end the game.
 ![menu](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.18.05%E2%80%AFa.m..png)
 
 ##### Story and game lore
+
+**Role play**
+
+
 The player will be introduced to the game’s storyline as a scientist astronaut investigating life on exoplanets while Earth faces an imminent crisis due to the Sun's cooling. With only 30 years left before life on Earth becomes extinct, humanity has launched desperate missions to find new habitable worlds. 
 
 ![story](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.18.39%E2%80%AFa.m..png?)
