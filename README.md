@@ -527,6 +527,10 @@ By immersing themselves in an alien world, players are inspired to imagine and e
 
 ### Projection of _"Abyss-Aqua: Beyond the Sunlight"_
 
+#### Rules
+![rules](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/rulesfinal.png)
+
+
 #### Menu
 The player will click to "play" to start, or "quit" to end the game. 
 ![menu](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.18.05%E2%80%AFa.m..png)
