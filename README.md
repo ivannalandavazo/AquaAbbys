@@ -527,7 +527,7 @@ By immersing themselves in an alien world, players are inspired to imagine and e
   - Microsoft designer
 
 
-## References
+## References: 
 
 Acuario Michin Guadalajara. (2024). Criaturas de las profundidades marinas. Retrieved from. https://gdl-es.acuariomichin.com/criaturas-de-las-profundidades-marinas/ }
 
