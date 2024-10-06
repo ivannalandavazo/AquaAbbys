@@ -529,7 +529,9 @@ The player will click to "play" to start, or "quit" to end the game.
 
 ##### Story and game lore
 
-**Role play**
+###### Role play
+![roleplay](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/role%20play.png)
+
 
 
 The player will be introduced to the game’s storyline as a scientist astronaut investigating life on exoplanets while Earth faces an imminent crisis due to the Sun's cooling. With only 30 years left before life on Earth becomes extinct, humanity has launched desperate missions to find new habitable worlds. 
@@ -547,13 +549,12 @@ Despite the hostile environment —extreme temperatures, high pressure, and a to
 
 Throughout the adventure, the player must not only survive and repair their spacecraft, but also interact with these life forms, study their behaviors, and gather crucial information to understand how these organisms have evolved in such extreme conditions. The mission is critical: the data the player collects could be the key to saving humanity or reveal the existence of other habitable worlds in the universe.
 
+
+
 As the player progresses, they will face moral and scientific dilemmas, such as whether to alter the ecosystem to ensure their own survival or to respect the nature of these alien creatures. Every decision they make will affect not only their own fate but that of all humanity.
 
 
 
-##### Game lore
-
-##### Role play
 
 ##### First room
 
