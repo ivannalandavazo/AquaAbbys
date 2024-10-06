@@ -410,7 +410,7 @@ Cold seeps are similar to hydrothermal vents but differ in that they release gas
 #### Exoplanet: 
 An exoplanet, or extrasolar planet, is a celestial body that orbits a star outside our solar system. These planets can vary in size, composition, and environmental conditions and are classified based on various criteria.  
 
-![exo]()
+![exo](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/exoplanetas2.jpg)
 
 
 
