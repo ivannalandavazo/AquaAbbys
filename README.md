@@ -23,7 +23,7 @@
   2. [About the project](#about-the-project)
   3. [Research](#research)
   4. [Project: Aqua-Abyss](#project-aqua-abyss)
-  5. Technologies, platforms, use of AI, etc. 
+  5. [Tools and technologies](#tools-and-technologies)
   6. References
 
 
@@ -465,7 +465,65 @@ Silicate rocks are primarily composed of silicate minerals based on the silicon-
 
 
 ## Project: Aqua-Abyss 
-  - Overview
-  -  How it works? 
-  -  Goals and Importance
-  -  Benefits
+
+![logo](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/logo.png)
+
+### Overview
+_"Aqua-Abyss: Beyond the Sunlight"_ is an educational video game that invites players to explore an aquatic exoplanet. Through immersive storytelling and interactive gameplay, players take on the role of an astronaut trapped in a world that challenges all notions of life as we know it. This game combines science and entertainment to inspire the next generation of scientists and explorers.
+
+### Story
+In the game, players embody an astronaut researcher who, after a mission to investigate the possibility of life on an aquatic exoplanet, suffers an accident that leaves their spaceship damaged. Trapped in this strange world, the player must gather resources, solve puzzles, and overcome challenges while exploring the biological diversity of the planet. Along the way, they will discover amazing creatures that have evolved to survive in a hostile environment and learn about their unique adaptations.
+
+
+
+### Objectives
+- Foster interest in science and space exploration in a young audience (ages 10-34), helping to cultivate a new generation of scientists and researchers.
+- Provide a learning environment that combines fun and education, making complex concepts in astrobiology accessible.
+- Spark interest in the possibilities of life on other planets, broadening the understanding of what constitutes a habitable world.
+
+
+
+ ### How it works? 
+1. **Environment Exploration:**
+ Players will navigate through different biomes of the exoplanet, ranging from the dark depths of the ocean to vibrant hydrothermal fields. Each biome will host different species, resources, and challenges.
+
+
+2. **Field Log System:**
+ As players discover new creatures, they will have access to a log that provides detailed information about each species, its biology, and how it survives in its environment.
+
+3. **Resource Gathering:** Players will be able to collect materials from the environment that will be necessary to repair their ship, create tools, and power-ups to aid them in their journey.
+
+4. **Interaction with Creatures:** The planet's creatures can be both allies and adversaries. Players will learn to interact strategically with them, whether to gain assistance or defend against threats.
+
+5. **Progressive Narrative:** As players advance through the story, new mysteries and challenges will be revealed, maintaining their interest and motivation to continue learning and exploring.
+
+
+### Importance 
+Exploring life on aquatic exoplanets through chemosynthesis can have significant implications for our understanding of biology, ecology, and the potential for life in the universe. Aqua-Abyss not only provides entertainment but also contributes to education and research in astrobiology, encouraging players to think critically about the challenges of life in extreme conditions.
+
+### Benefits
+- Education and Learning: 
+The game promotes understanding of scientific concepts, such as chemosynthesis, in a fun and interactive way, fostering scientific curiosity.
+
+- Skill Development: 
+Players will develop problem-solving and critical thinking skills by facing challenges and making decisions in the game.
+
+- Fostering Imagination: 
+By immersing themselves in an alien world, players are inspired to imagine and explore possibilities about life on other planets.
+
+
+## Tools and Technologies
+
+- GameMaker Studio: 
+  - Software
+  - IDE
+
+- Pixilart
+
+- Colaborative: 
+  - Google documents
+  - Canva
+  - Microsoft designer
+
+
+## References
