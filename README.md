@@ -521,46 +521,49 @@ By immersing themselves in an alien world, players are inspired to imagine and e
 ![pixi](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.01.15%E2%80%AFa.m..png)
 
 
-- #### Projection of _"Abyss-Aqua: Beyond the Sunlight"_
+![nave](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/nave.png)
 
-##### Menu
+### Projection of _"Abyss-Aqua: Beyond the Sunlight"_
+
+#### Menu
 The player will click to "play" to start, or "quit" to end the game. 
 ![menu](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.18.05%E2%80%AFa.m..png)
 
-##### Story and game lore
 
-###### Role play
+#### Story 
+
+- ##### Role play
 ![roleplay](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/role%20play.png)
 
+- ##### Rules
+![pixi](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/rules.png)
 
+
+- #### Game lore
 
 The player will be introduced to the game’s storyline as a scientist astronaut investigating life on exoplanets while Earth faces an imminent crisis due to the Sun's cooling. With only 30 years left before life on Earth becomes extinct, humanity has launched desperate missions to find new habitable worlds. 
 
-![story](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.18.39%E2%80%AFa.m..png?)
+![story](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.18.39%E2%80%AFa.m..png)
 
 
 
 The astronaut, after an accident with their spacecraft, crash-lands on a frozen planet with vast subterranean oceans, reminiscent of Europa, one of Jupiter’s moons.
 
-![story2](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.36.20%E2%80%AFa.m..png?raw=true)
+![story2](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.36.20%E2%80%AFa.m..png)
 
 
 Despite the hostile environment —extreme temperatures, high pressure, and a total absence of sunlight— the planet shows signs of life forms that have adapted to this environment by using chemosynthesis instead of photosynthesis. As the player explores this strange and unknown world, they will dive into its deep oceans, discovering alien ecosystems that rely on hydrothermal vents for survival.
 
+![story3](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/1st%20room.png)
+
 Throughout the adventure, the player must not only survive and repair their spacecraft, but also interact with these life forms, study their behaviors, and gather crucial information to understand how these organisms have evolved in such extreme conditions. The mission is critical: the data the player collects could be the key to saving humanity or reveal the existence of other habitable worlds in the universe.
 
-
+![story3](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/2room.png)
 
 As the player progresses, they will face moral and scientific dilemmas, such as whether to alter the ecosystem to ensure their own survival or to respect the nature of these alien creatures. Every decision they make will affect not only their own fate but that of all humanity.
 
+![story4](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/3room.png)
 
-
-
-##### First room
-
-##### Second room
-
-##### Third room 
 
 
 
@@ -575,12 +578,16 @@ As the player progresses, they will face moral and scientific dilemmas, such as 
 
 ## Tools and Technologies
 
-- GameMaker Studio: 
-  - Software
-  - IDE
-  - GML Language
+- **GameMaker Studio:**
+  - **Software:**
+  - **IDE**
+  - **GML Language**
 
-- Pixilart
+We use GameMaker Studio as the main development platform for creating the game. The GameMaker Language (GML) is used to program the game mechanics and interactions. Its flexibility and ease of use make it ideal for our project’s complex systems.
+
+
+- **Pixilart**
+Pixilart is utilized for creating pixel-based artwork and animations for in-game assets. It helps in designing characters, environments, and other visual elements that fit the style of the game.
 
 - Colaborative: 
   - Google documents
@@ -597,7 +604,7 @@ As the player progresses, they will face moral and scientific dilemmas, such as 
 
 ## References: 
 
-Acuario Michin Guadalajara. (2024). Criaturas de las profundidades marinas. Retrieved from. https://gdl-es.acuariomichin.com/criaturas-de-las-profundidades-marinas/ }
+Acuario Michin Guadalajara. (2024). Criaturas de las profundidades marinas. Retrieved from. https://gdl-es.acuariomichin.com/criaturas-de-las-profundidades-marinas/ 
 
 
 American Museum of Natural History. (2022). Study Reveals Potential Water Worlds in Kepler-138 System. Retrieved from: https://www.amnh.org/explore/news-blogs/research-posts/water-worlds-kepler-138#:~:text=%E2%80%9CThese%20planets%20are%20considerably%20warmer,%2D138c%20is%20even%20hotter.%E2%80%9D
