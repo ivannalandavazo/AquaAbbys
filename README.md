@@ -563,12 +563,15 @@ Cold-seep communities. (n.d.). Science Learning Hub. https://www.sciencelearn.or
 DOSI. (2020). Redefinición de la Influencia de los Ecosistemas Quimiosintéticos para su Gestión Ambiental Efectiva. Retrieved from:
 https://www.dosi-project.org/wp-content/uploads/Ecosistemas-Quimiosinteticos-Informe-de-Politicas.pdf
 
+Fischer, A. (2021). 5 increíbles animales bioluminiscentes que emiten su propia luz. [Image]. National Geographic. https://www.ngenespanol.com/animales/5-increibles-animales-bioluminiscentes-que-emiten-su-propia-luz/ 
+
+Gargantilla, P. (2024). Una fuente hidrotermal de donde se cree pudo surgir la vida hace 4.000 millones de años. [Image]. ABC Ciencia. https://www.abc.es/ciencia/llegar-momento-planeta-pueda-sostener-vida-conocemos-20240924133557-nt.html 
+
 Geosciences LibreTexts. (n.d.). Silicate minerals - The building blocks of Earth's crust. Retrieved October 4, 2024, from https://geo.libretexts.org/ 
 
 Iberdrola. (n.d.). Fauna abisal:¡qué secretos guardan las profundidades oceánicas. Retrieved from: https://www.iberdrola.com/sostenibilidad/fauna-abisal#:~:text=Animales%20abisales&text=Su%20aspecto%20se%20justifica%20por,desarrollados%2C%20est%C3%B3magos%20extensibles%2C%20etc. 
 
 Mcphee, J., Charles, J. (n.d.) Human Health and Performance Risks of Space Exploration Missions. NASA. Retrieved from: https://humanresearchroadmap.nasa.gov/Evidence/reports/EvidenceBook.pdf
-
 
 Monterey Bay Aquarium. (n.d.). Mar profundo. Recuperado de https://www.montereybayaquarium.org/espanol/animales/mar-profundo#:~:text=Animales%20como%20los%20peces%20demonio,luz%20roja%20a%20esa%20profundidad. 
 
@@ -577,20 +580,34 @@ NASA. (2020). Are Planets with Oceans Common in the Galaxy? It’s Likely, NASA 
 NASA. (2022). Dos exoplanetas podrían ser mundos de agua, según hallazgo de Hubble y Spitzer. Retrieved from:
 https://ciencia.nasa.gov/universo/dos-exoplanetas-podrian-ser-mundos-de-agua-segun-hubble-y-spitzer/
 
+NASA. (2023). Dos exoplanetas podrían ser mundos de agua, según hallazgo de Hubble y Spitzer.  [Image]. https://ciencia.nasa.gov/universo/dos-exoplanetas-podrian-ser-mundos-de-agua-segun-hubble-y-spitzer/ 
+
 NASA. (2022). Mundos océanos y la búsqueda de vida más allá de la Tierra. Recuperado de https://ciencia.nasa.gov/sistema-solar/mundos-oceanicos-y-la-busqueda-de-vida-mas-alla-de-la-tierra/ 
 
 NASA Ciencia Space Place. (2024). El mundo océanico de Júpiter. Retrieved from:
 https://spaceplace.nasa.gov/europa/sp/ 
 
+NASA Ciencia Space Place. (2024). El mundo oceánico de Júpiter. [Image]. https://spaceplace.nasa.gov/europa/sp/ 
+
 NASA Ciencia Space Place. (2022). ¿Qué es un exoplaneta?. Retrieved from: https://spaceplace.nasa.gov/all-about-exoplanets/sp/  
+
+NASA Deep Space Network. (2022). 5 años después del descubrimiento del sistema TRAPPIST-1, ¿qué sabemos y qué podremos conocer? [Image]. https://www.mdscc.nasa.gov/index.php/2022/02/23/5-anos-despues-del-descubrimiento-del-sistema-trappist-1-que-sabemos-y-que-podremos-conocer/ 
 
 National Geographic. (n.d.). Una guía de planetas solitarios en la galaxia. Retrieved from
  https://www.nationalgeographic.es/espacio/una-guia-de-planetas-solitarios-en-la-galaxia 
 
+National Geographic. (2014). Oso de agua. [Image]. https://www.nationalgeographic.es/animales/animales-que-sobreviven-a-temperaturas-extremas 
+
+National Geographic. (2022). Encélado, la luna helada que podría albergar vida.  [Image]. https://www.nationalgeographic.es/photography/2017/04/encelado-la-luna-helada-que-podria-albergar-vida 
+
 National Geographic España. (2024). Encélado , la luna de Saturno, expulsa gigantescos chorros de hielo, y ahora sabemos por qué. Retrieved from:
 https://www.nationalgeographic.com.es/ciencia/encelado-luna-saturno-expulsa-gigantescos-chorros-hielo-y-ahora-sabemos-por-que_22195 
 
+Nieves, J. (2021). Así se refleja el Universo en un agujero negro.  [Image]. ABC Ciencia. https://www.abc.es/ciencia/abci-refleja-universo-agujero-negro-202107140050_noticia.html 
+
 Nubika. (2021). Peces abisales gigantes: luz en la profundidad. Retrieved from: https://nubika.es/noticias/peces-abisales-gigantes/#:~:text=Los%20peces%20abisales%20suelen%20ser,los%20dientes%20grandes%20y%20afilados.
+
+Marca. (2022).  El último descubrimiento de la NASA: un exoplaneta habitable completamente cubierto por agua.  [Image]. https://www.marca.com/tecnologia/2022/08/25/630780ce22601d0f4f8b45a2.html 
 
 Ocean Exploration. (n.d.). Fuentes Hidrotermales. Retrieved from: https://oceanexplorer.noaa.gov/edu/materials/hydrothermal-vents-fact-sheet-ESP.pdf
 
@@ -598,8 +615,12 @@ Ocean Exploration. (n.d.). Quimiosíntesis. Retrieved from: https://oceanexplore
 
 Piaulet, C., Benneke, B., Almenara, J.M. et al. (2023). Evidence for the volatile-rich composition of a 1.5-Earth-radius planet. Nat Astron 7, 206–222. Retrieved from: https://doi.org/10.1038/s41550-022-01835-4 
 
+Rivera, A. (2014). Europa anuncia su telescopio cazador de planetas extrasolares. [Image]. El País. https://elpais.com/sociedad/2014/02/19/actualidad/1392837595_388340.html 
+
 Unidad de Medios y Contenidos Audiovisuales. (2022). Reporte Especial Estado del Gaming en México 2021. Instituto Federal de Telecomunicaciones.
 https://somosaudiencias.ift.org.mx/archivos/INFORME_Videojuegos2022OCT_VF.pdf 
+
+Universatät Bremen. (n.d.). Blaues Telefon – Fragen und Antworten zum Thema ›Leben in der Tiefsee‹.  [Image].  https://www.marum.de/BT-Leben-in-der-Tiefsee.html 
 
 VectorMine. (2021, July 14). Proceso de quimiosíntesis con energía procedente del diagrama de esquema de ventilación hidrotérmica. Dreamstime. https://es.dreamstime.com/proceso-de-quimios%C3%ADntesis-con-energ%C3%ADa-procedente-del-diagrama-esquema-ventilaci%C3%B3n-hidrot%C3%A9rmica-fuente-partir-cadena-vida-image224321926
 
