@@ -515,6 +515,8 @@ Players will develop problem-solving and critical thinking skills by facing chal
 By immersing themselves in an alien world, players are inspired to imagine and explore possibilities about life on other planets.
 
 
+### Characters and graphic sources
+
 
 
 
