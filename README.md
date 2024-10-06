@@ -517,7 +517,7 @@ By immersing themselves in an alien world, players are inspired to imagine and e
 
 ### Characters and graphic sources
 
-holaaaa
+holaaaa como estas
 
 
 ----------------------------------------------------------------------------
