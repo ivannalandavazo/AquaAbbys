@@ -520,6 +520,45 @@ By immersing themselves in an alien world, players are inspired to imagine and e
 - #### Characters and graphic sources
 ![pixi](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.01.15%E2%80%AFa.m..png)
 
+- #### Projection of _"Abyss-Aqua: Beyond the Sunlight"_
+
+##### Menu
+The player will click to "play" to start, or "quit" to end the game. 
+![menu](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.18.05%E2%80%AFa.m..png)
+
+##### Story and game lore
+The player will be introduced to the game’s storyline as a scientist astronaut investigating life on exoplanets while Earth faces an imminent crisis due to the Sun's cooling. With only 30 years left before life on Earth becomes extinct, humanity has launched desperate missions to find new habitable worlds. 
+
+![story](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.18.39%E2%80%AFa.m..png?)
+
+
+
+The astronaut, after an accident with their spacecraft, crash-lands on a frozen planet with vast subterranean oceans, reminiscent of Europa, one of Jupiter’s moons.
+
+![story](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/Captura%20de%20pantalla%202024-10-06%20a%20la(s)%209.18.39%E2%80%AFa.m..png?)
+
+
+Despite the hostile environment —extreme temperatures, high pressure, and a total absence of sunlight— the planet shows signs of life forms that have adapted to this environment by using chemosynthesis instead of photosynthesis. As the player explores this strange and unknown world, they will dive into its deep oceans, discovering alien ecosystems that rely on hydrothermal vents for survival.
+
+Throughout the adventure, the player must not only survive and repair their spacecraft, but also interact with these life forms, study their behaviors, and gather crucial information to understand how these organisms have evolved in such extreme conditions. The mission is critical: the data the player collects could be the key to saving humanity or reveal the existence of other habitable worlds in the universe.
+
+As the player progresses, they will face moral and scientific dilemmas, such as whether to alter the ecosystem to ensure their own survival or to respect the nature of these alien creatures. Every decision they make will affect not only their own fate but that of all humanity.
+
+
+
+##### Game lore
+
+##### Role play
+
+##### First room
+
+##### Second room
+
+##### Third room 
+
+
+
+
 
 
 
