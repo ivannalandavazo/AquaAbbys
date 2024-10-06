@@ -24,7 +24,7 @@
   3. [Research](#research)
   4. [Project: Aqua-Abyss](#project-aqua-abyss)
   5. [Tools and technologies](#tools-and-technologies)
-  6. References
+  6. [References](#references)
 
 
 ----------------------------------------------------------------------------
@@ -464,6 +464,9 @@ Silicate rocks are primarily composed of silicate minerals based on the silicon-
 
 
 
+----------------------------------------------------------------------------
+
+
 ## Project: Aqua-Abyss 
 
 ![logo](https://github.com/ivannalandavazo/AquaAbbys/blob/main/Images/logo.png)
@@ -512,6 +515,14 @@ Players will develop problem-solving and critical thinking skills by facing chal
 By immersing themselves in an alien world, players are inspired to imagine and explore possibilities about life on other planets.
 
 
+
+
+
+----------------------------------------------------------------------------
+
+
+
+
 ## Tools and Technologies
 
 - GameMaker Studio: 
@@ -525,6 +536,14 @@ By immersing themselves in an alien world, players are inspired to imagine and e
   - Google documents
   - Canva
   - Microsoft designer
+
+
+
+
+----------------------------------------------------------------------------
+
+
+
 
 
 ## References: 
