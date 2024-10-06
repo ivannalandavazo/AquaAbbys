@@ -22,14 +22,7 @@
   1. [Team](#team)
   2. [About the project](#about-the-project)
   3. [Research](#research)
-    -  [Introduction](introduction)
-    -  [Background](background)
-    -  [Theorical framework](theorical-framework)
   4. [Project: Aqua-Abyss](#project-aqua-abyss)
-    -  Overview
-    -  How it works? 
-    -  Goals and Importance
-    -  Benefits
   5. Technologies, platforms, use of AI, etc. 
   6. References
 
@@ -472,3 +465,7 @@ Silicate rocks are primarily composed of silicate minerals based on the silicon-
 
 
 ## Project: Aqua-Abyss 
+  - Overview
+  -  How it works? 
+  -  Goals and Importance
+  -  Benefits
