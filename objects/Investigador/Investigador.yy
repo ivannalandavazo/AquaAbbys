@@ -46,6 +46,8 @@
     {"$GMObjectProperty":"v1","%Name":"Roomright","filters":[],"listItems":[],"multiselect":false,"name":"Roomright","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"Room12","path":"rooms/Room12/Room12.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Room12","varType":5,},
     {"$GMObjectProperty":"v1","%Name":"sp","filters":[],"listItems":[],"multiselect":false,"name":"sp","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"shot","filters":[],"listItems":[],"multiselect":false,"name":"shot","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"40","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"hp","filters":[],"listItems":[],"multiselect":false,"name":"hp","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"4","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"hp_max","filters":[],"listItems":[],"multiselect":false,"name":"hp_max","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"6","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

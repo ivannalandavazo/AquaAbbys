@@ -27,24 +27,24 @@ if (x <= 0) {
 	room_goto(Roomleft);
 }
 
-if (keyboard_check(vk_right)) {
+if (keyboard_check(vk_right) or keyboard_lastkey == ord("d")) {
 	x += movex;
 	o = 1;
 }
-if (keyboard_check(vk_left)) {
+if (keyboard_check(vk_left) or keyboard_lastkey == ord("a")) {
 	x -= movex;
 	o = -1;
 }
-if (keyboard_check(vk_up)) y -= movey;
-if (keyboard_check(vk_down)) y += movey;
+if (keyboard_check(vk_up) or keyboard_lastkey == ord("w")) y -= movey;
+if (keyboard_check(vk_down) or keyboard_lastkey == ord("s")) y += movey;
 
-if ((keyboard_check(vk_right)) | (keyboard_check(vk_left)) | (keyboard_check(vk_up)) | (keyboard_check(vk_down))){
+if ((keyboard_lastkey == ord("w")) | (keyboard_lastkey == ord("a")) | (keyboard_lastkey == ord("s")) | (keyboard_lastkey == ord("d")) | (keyboard_check(vk_right)) | (keyboard_check(vk_left)) | (keyboard_check(vk_up)) | (keyboard_check(vk_down))){
 	sp = 0.4
 }
 else sp = 0
-if (keyboard_check(vk_space) && (i<shot)) {
+if ((keyboard_check(vk_space) | mouse_check_button(mb_left)) && (i<shot)) {
 	sprite_index = astropistolea;
-	if (i=0) instance_create_layer(x+o*140,y+30, "Instances", oLaser);
+	if (i=0) instance_create_layer(x+o*140,y+30, "Top", oLaser);
 	i++;
 }
 else {

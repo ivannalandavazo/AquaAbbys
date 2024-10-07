@@ -1,5 +1,4 @@
-// Inherit the parent event
-event_inherited();
+
 
 if (i==100){
 	if (boo == true) {
@@ -18,3 +17,4 @@ if (i==100){
 else {
 	i++
 }
+if (hp <= 0) instance_destroy();

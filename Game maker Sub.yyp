@@ -80,6 +80,7 @@
     {"id":{"name":"astropistolea","path":"sprites/astropistolea/astropistolea.yy",},},
     {"id":{"name":"astrostand","path":"sprites/astrostand/astrostand.yy",},},
     {"id":{"name":"astrowalks","path":"sprites/astrowalks/astrowalks.yy",},},
+    {"id":{"name":"camaron_1","path":"sprites/camaron_1/camaron_1.yy",},},
     {"id":{"name":"camaron","path":"sprites/camaron/camaron.yy",},},
     {"id":{"name":"cohetechocado","path":"sprites/cohetechocado/cohetechocado.yy",},},
     {"id":{"name":"cohetedespegando","path":"sprites/cohetedespegando/cohetedespegando.yy",},},
